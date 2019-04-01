@@ -6,7 +6,7 @@
         "ContinueWhenError": false,
         "PreProcessMustSucceed": true,
         "PostProcessMustSucceed": false,
-        "WorkingLocation": "C:\\Polyrific\\Solution\\SimpleGenerator\\CodeResult"
+        "WorkingLocation": "C:\\Polyrific\\Solution\\CodeResult"
     },
     "additional": {
         "Title": "Greeting Console"

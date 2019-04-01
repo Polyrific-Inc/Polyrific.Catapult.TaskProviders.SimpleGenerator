@@ -44,12 +44,11 @@ namespace Polyrific.Catapult.TaskProviders.SimpleGenerator
         }
 
         private Task GenerateCode(string projectName, string outputLocation)
-        {
-            // if this code is run in linux/mac, change the "powershell" into "pwsh" and the arguments should be $"-c \"dotnet new mvc --name {projectName}\""
-            var info = new ProcessStartInfo("powershell")
+        {         
+            var info = new ProcessStartInfo("dotnet")
             {
                 UseShellExecute = false,
-                Arguments = $"dotnet new web --name {projectName}",
+                Arguments = $"new web --name {projectName}",
                 RedirectStandardInput = true,
                 RedirectStandardOutput = true,
                 RedirectStandardError = true,
