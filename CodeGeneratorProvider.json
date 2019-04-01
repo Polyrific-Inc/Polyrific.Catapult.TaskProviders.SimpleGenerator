@@ -1,0 +1,11 @@
+{
+    "process": "main",
+    "project": "GreetingWeb",
+    "config": {
+        "OutputLocation": null,
+        "ContinueWhenError": false,
+        "PreProcessMustSucceed": true,
+        "PostProcessMustSucceed": false,
+        "WorkingLocation": "C:\\Polyrific\\Solution\\CodeResult"
+    }
+}

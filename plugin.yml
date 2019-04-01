@@ -1,0 +1,4 @@
+name: 'Polyrific.Catapult.TaskProviders.SimpleGenerator'
+type: 'GeneratorProvider'
+author: 'Polyrific'
+version: '1.0.0'
