@@ -1,2 +1,2 @@
 # Polyrific.Catapult.TaskProviders.SimpleGenerator
-A simple code generator provider for OpenCatapult
+This is an [OpenCatapult](https://opencatapult.net) Code Generator Provider that are created in our tutorial that can be found in the [documentation website](https://docs.opencatapult.net).
